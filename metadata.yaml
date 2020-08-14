@@ -1,0 +1,29 @@
+_repo: When-the-Sea-Gives-Up-Its-Dead-A-Thrilling-Detective-Story_62824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corbett, George, Mrs.
+    aliases:
+    - Corbett, Elizabeth Burgoyne
+    - Corbett, Mrs. George
+    birthdate: 1846
+    deathdate: 1930
+    gutenberg_agent_id: '49067'
+    url: http://www.gutenberg.org/2009/agents/49067
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Burgoyne_Corbett
+description: ''
+gutenberg_issued: '2020-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Jewelry theft -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: 'When the Sea Gives Up Its Dead: A Thrilling Detective Story'
+url: http://www.gutenberg.org/ebooks/62824
